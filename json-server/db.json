@@ -154,5 +154,11 @@
       "id": 1,
       "readAt": "2026-01-12T10:59:39.128Z"
     }
-  ]
+  ],
+  "scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
+}
+
 }
